@@ -1,0 +1,8 @@
+kafka-python
+scikit-learn
+pandas
+numpy
+plotly
+dash
+pymongo
+schedule
